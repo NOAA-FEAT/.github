@@ -17,7 +17,7 @@ Since 2003, we have surveyed the migrating stock of Pacific hake (Merluccius pro
 - [Fisheries and Oceans Canada](https://www.dfo-mpo.gc.ca/index-eng.htm) 
 - [Alaska Fisheries Science Center](https://www.fisheries.noaa.gov/about/alaska-fisheries-science-center) 
 - [Southwest Fisheries Science Center](https://www.fisheries.noaa.gov/about/southwest-fisheries-science-center) 
-- [Applied Physics Lab](https://www.apl.washington.edu/)
+- [Applied Physics Lab - University of Washington](https://www.apl.washington.edu/)
 - [International Council for the Exploration of the Sea](http://www.ices.dk/Pages/default.aspx) 
 - [Working Group on Fisheries Acoustics, Science and Technology](https://www.ices.dk/community/groups/Pages/WGFAST.aspx)
 
