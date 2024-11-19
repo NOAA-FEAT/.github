@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to the Fisheries Engineering and Acoustic Technologies Github Organization
 
 <!--
 
